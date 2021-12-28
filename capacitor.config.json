@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-breadcrumbs-routing-refresh",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
